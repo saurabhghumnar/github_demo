@@ -3,7 +3,7 @@ def add(x,y):
     return x+y     #Master commit
 #Subtract implementation    
 def subtract(x,y):
-    pass
+    return x-y   #Bug123 commit
 #Multiply Implementation
 def multiply(x,y):
     pass
